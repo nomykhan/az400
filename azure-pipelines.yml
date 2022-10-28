@@ -6,8 +6,8 @@
 trigger:
 - main
 
-pool:
-  vmImage: ubuntu-latest
+pool:az400m05l05a-pool
+  #vmImage: ubuntu-latest
 
 steps:
 - script: echo Hello, world!
